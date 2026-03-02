@@ -40,7 +40,6 @@ echo ""
 
 PACKAGES=(
   "btop"
-  "cowsay"
   "fastfetch"
   "fish"
   "fuzzel"

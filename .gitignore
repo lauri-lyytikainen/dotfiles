@@ -1,7 +1,9 @@
-/btop/themes/noctalia.theme
-/fuzzel/themes/noctalia
-/kitty/themes/noctalia.conf
-/kitty/current-theme.conf
-/niri/noctalia.kdl
-/noctalia/colors.json
-/yazi/flavors/noctalia.yazi/flavor.toml
+.config/btop/themes/noctalia.theme
+.config/fuzzel/themes/noctalia
+.config/kitty/themes/noctalia.conf
+.config/kitty/current-theme.conf
+.config/niri/noctalia.kdl
+.config/noctalia/colors.json
+.config/yazi/flavors/noctalia.yazi/flavor.toml
+/.config/spotify-player/theme.toml
+/.config/yazi/theme.toml
